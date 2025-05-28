@@ -1,17 +1,17 @@
 
 const cards = [
   {
-    title: "Uyga vazifa 1",
-    desc: "Bu vazifa 1-raqamli darsga oid topshiriq.",
-    github: "https://github.com/user/repo-1",
-    vercel: "https://vercel.com/example-1"
+    title: "Hometask 3",
+    desc: "Hometask bajarilgan",
+    github: "https://github.com/Asilbek-Xan/4-oy-3-hometask.git",
+    vercel: "https://4-oy-3-hometask-git-main-asilbek20000012s-projects.vercel.app"
   },
   
   {
-    title: "Uyga vazifa 1",
-    desc: "Bu vazifa 1-raqamli darsga oid topshiriq.",
-    github: "https://github.com/user/repo-1",
-    vercel: "https://vercel.com/example-1"
+    title: "Hometask 2",
+    desc: "Hometask bajarilgan.",
+    github: "https://github.com/Asilbek-Xan/4-oy-2-hometask.git",
+    vercel: "https://4-oy-2-hometask-git-main-asilbek20000012s-projects.vercel.app"
   },
   
   
