@@ -1,8 +1,14 @@
 
 const cards = [
+   {
+    title: "Hometask 5",
+    desc: "Hometask bajarilgan.",
+    github: "https://github.com/Asilbek-Xan/4-oy-5-dars",
+    vercel: "https://4-oy-5-dars-git-main-asilbek20000012s-projects.vercel.app"
+  },
   {
     title: "Hometask 3",
-    desc: "Hometask bajarilgan",
+    desc: "Hometask bajarilgan.",
     github: "https://github.com/Asilbek-Xan/4-oy-3-hometask.git",
     vercel: "https://4-oy-3-hometask-git-main-asilbek20000012s-projects.vercel.app"
   },
