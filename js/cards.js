@@ -4,8 +4,8 @@ const cards = [
   {
     title: "Imtihon 4 oy figma",
     desc: "Imtihon bajarilgan.",
-    github: "",
-    vercel: ""
+    github: "https://github.com/Asilbek-Xan/imtihon-4-oy-figma.git",
+    vercel: "https://imtihon-4-oy-figma-git-main-asilbek20000012s-projects.vercel.app"
   },
   {
     title: "Imtihon 4 oy",
