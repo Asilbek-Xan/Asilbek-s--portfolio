@@ -1,5 +1,11 @@
 
 const cards = [
+   {
+    title: "Hometask 2",
+    desc: "Imtihon bajarilgan.",
+    github: "https://github.com/Asilbek-Xan/5-oy-2-dars.git",
+    vercel: "https://5-oy-2-dars-git-main-asilbek20000012s-projects.vercel.app"
+  },
 
   {
     title: "Imtihon 4 oy figma",
