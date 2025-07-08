@@ -1,26 +1,32 @@
 
 const cards = [
+   {
+    title: "Hometask 9",
+    desc: "Hometask bajarilgan.",
+    github: "https://github.com/Asilbek-Xan/5-oy-9-hometask.git",
+    vercel: "https://5-oy-9-hometask-git-main-asilbek20000012s-projects.vercel.app"
+  },
   {
     title: "Hometask 6",
-    desc: "Imtihon bajarilgan.",
+    desc: "Hometask bajarilgan.",
     github: "https://github.com/Asilbek-Xan/5-oy-6-hometask.git",
     vercel: "https://5-oy-6-hometask-git-main-asilbek20000012s-projects.vercel.app"
   },
   {
     title: "Hometask 5",
-    desc: "Imtihon bajarilgan.",
+    desc: "Hometask bajarilgan.",
     github: "https://github.com/Asilbek-Xan/5-oy-5-hometask.git",
     vercel: "https://5-oy-5-hometask-git-main-asilbek20000012s-projects.vercel.app"
   },
    {
     title: "Hometask 3",
-    desc: "Imtihon bajarilgan.",
+    desc: "Hometask bajarilgan.",
     github: "https://github.com/Asilbek-Xan/5-oy-3-hometask.git",
     vercel: "https://5-oy-3-hometask-git-main-asilbek20000012s-projects.vercel.app"
   },
    {
     title: "Hometask 2",
-    desc: "Imtihon bajarilgan.",
+    desc: "Hometask bajarilgan.",
     github: "https://github.com/Asilbek-Xan/5-oy-2-dars.git",
     vercel: "https://5-oy-2-dars-git-main-asilbek20000012s-projects.vercel.app"
   },
