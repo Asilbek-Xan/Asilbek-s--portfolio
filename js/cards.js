@@ -1,6 +1,12 @@
 
 const cards = [
   {
+    title: "Hometask 5-oy 4-dars FN44",
+    desc: "Hometask bajarilgan.",
+    github: "https://github.com/Asilbek-Xan/5-oy-4-dars.git",
+    vercel: "https://5-oy-4-dars-git-main-asilbek20000012s-projects.vercel.app"
+  },
+  {
     title: "Hometask 5 oy 2 dars",
     desc: "Hometask bajarilgan.",
     github: "https://github.com/Asilbek-Xan/5-oy-2-darss.git",
@@ -85,15 +91,15 @@ const cards = [
     github: "https://github.com/Asilbek-Xan/4-oy-3-hometask.git",
     vercel: "https://4-oy-3-hometask-git-main-asilbek20000012s-projects.vercel.app"
   },
-  
+
   {
     title: "Hometask 2",
     desc: "Hometask bajarilgan.",
     github: "https://github.com/Asilbek-Xan/4-oy-2-hometask.git",
     vercel: "https://4-oy-2-hometask-git-main-asilbek20000012s-projects.vercel.app"
   },
-  
-  
+
+
 ];
 
 const cardsContainer = document.getElementById('cards');
