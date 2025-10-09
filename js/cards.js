@@ -1,5 +1,11 @@
 
 const cards = [
+  {
+    title: "Hometask 5-oy cars loyihasi",
+    desc: "Loyiha boshlangan.",
+    github: "https://github.com/Asilbek-Xan/5-oy-cars-loyihasi.git",
+    vercel: "https://5-oy-cars-loyihasi.vercel.app/"
+  },
    {
     title: "Hometask 5-oy 6-dars FN44",
     desc: "Hometask bajarilgan.",
