@@ -352,7 +352,7 @@
     <div class="footer">
       <p>Asilbek Shakarboyevning porfoliosini ohiriga yetdingiz.</p>
       <div class="social-links">
-        <a href="#" class="social-link"><i class="fab fa-github"></i></a>
+        <a href="https://github.com/Asilbek-Xan/" class="social-link"><i class="fab fa-github"></i></a>
       <a href="https://t.me/SHAKARBOEV_0" target="_blank" rel="noopener noreferrer" class="social-link">
   <i class="fab fa-telegram"></i>
 </a>
@@ -545,7 +545,6 @@
       examCountElement.textContent = examCount;
     }
 
-    // Render cards
     function renderCards(filter = 'all') {
       cardsContainer.innerHTML = '';
 
@@ -588,7 +587,6 @@
       });
     }
 
-    // Filter functionality
     filterButtons.forEach(button => {
       button.addEventListener('click', () => {
         filterButtons.forEach(btn => btn.classList.remove('active'));
